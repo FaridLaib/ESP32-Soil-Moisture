@@ -47,3 +47,5 @@ LED remains off when moisture is adequate.
 # Purpose #
 
 A simple soil-moisture monitoring system that provides both visual feedback (OLED + LED) and serial output, suitable for plant-watering reminders or basic IoT gardening projects.
+![IMG_8530](https://github.com/user-attachments/assets/d3a8fa11-6739-4246-858f-39cd0cd19eb8)
+
